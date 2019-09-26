@@ -1,8 +1,10 @@
-<html>
-<head>
-    <title></title>
-    </head>
-    <body>
-        <h1>Anasayfa</h1>
-    </body>
-</html>
+<?php 
+if(!empty($_GET['url']))
+{
+    $url=$_GET['url'];
+echo $url;
+}
+
+?>
+        
+        

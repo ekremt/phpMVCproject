@@ -3,6 +3,6 @@
     <title></title>
     </head>
     <body>
-        <h1>Anasayfa</h1>
+        <h1>İletişim</h1>
     </body>
 </html>

@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title></title>
+    <title><?php echo $title; ?></title><!-- Sayfa başlığını view.php üzerinde yazdırma-->
     </head>
     <body>
         <header>

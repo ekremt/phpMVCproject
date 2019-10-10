@@ -1,6 +1,6 @@
 <?php 
-include "view.php";
-include "controller.php";
+include "view/view.php";
+include "controller/controller.php";
 if(!empty($_GET['url']))//url verisinin içeriğinin dolu olduğunda çalışan if
 {
     $url=$_GET['url'];//url verisi $url değişkenine atılıyor.
